@@ -1,0 +1,54 @@
+2013-12-27 18:16:38 Error: [MissingControllerException] Controller class 5starController could not be found.
+Exception Attributes: array (
+  'class' => '5starController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/5star/
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-01 23:47:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/avatar-accept.png
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-01 23:48:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/avatar-accept.png
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-02 12:11:49 Error: [MissingControllerException] Controller class SController could not be found.
+Exception Attributes: array (
+  'class' => 'SController',
+  'plugin' => NULL,
+)
+Request URL: /CAKEPHP/S
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-04 10:24:22 Error: [MissingControllerException] Controller class ClientsController could not be found.
+Exception Attributes: array (
+  'class' => 'ClientsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/clients
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/cakephp/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-01-05 05:02:27 Error: [MissingControllerException] Controller class STARZnController could not be found.
+Exception Attributes: array (
+  'class' => 'STARZnController',
+  'plugin' => NULL,
+)
+Request URL: /CAKEPHP/STARZn/surveys
+Stack Trace:
+#0 /Users/seyia/Documents/WWW/apache2/htdocs/CAKEPHP/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
